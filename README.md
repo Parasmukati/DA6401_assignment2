@@ -90,7 +90,7 @@ This repository contains the solution to **Assignment 2** for the course **DA640
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/da6401_assignment2.git
+git clone https://github.com/Parasmukati/DA6401_assignment2.git
 cd da6401_assignment2
 
 # Install dependencies
