@@ -2,6 +2,9 @@
 
 This repository contains the solution to **Assignment 2** for the course **DA6401**, focused on training convolutional neural networks from scratch and fine-tuning pre-trained models using the [iNaturalist dataset](https://www.kaggle.com/competitions/inaturalist-2021-fgvc8/data).
 
+NA21B051_Paras_Mukati
+
+
 ## 📁 Repository Structure
 
 ```
